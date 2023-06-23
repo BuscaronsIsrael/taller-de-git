@@ -1,2 +1,2 @@
 <?php
-echo "Hola Mundo\n";
+@print "Hola {$arg[1]}\n";
